@@ -1,0 +1,1 @@
+setTimeout(()=>{window.location=atob("aHR0cHM6Ly9mYWNlYm9vay5jb20v")},2e3)
